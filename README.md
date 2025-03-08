@@ -1,7 +1,7 @@
 <html>
 <center>
 <h1>
-baran aydın kişise bloğu
+baran aydın kişisel bloğu
 </h1>
 </center>
 </html>
